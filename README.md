@@ -4,8 +4,8 @@
 # Coin-detection-using-opencv-in-python
 
 
-### Name : AANKARSH J
-### Reg.No": 212223233001
+### Name : AJAYRAJA RATHINAM T
+### Reg.No": 212224240006
 
 # Aim:
 To develop an AI-based image processing system that can automatically detect and count coins in an image using Python and OpenCV, while visualizing all the intermediate processing steps such as grayscale conversion, blurring, edge detection, and contour detection.
